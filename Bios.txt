@@ -1,0 +1,66 @@
+---Bios---
+Name: Niraly Patel
+Position: Director
+Year: 4th
+Major: Public Health Policy; Minor: Education
+Fun Fact: I've lived every aspect of a Bollywood movie in just 21 years. If a movie was made on my life, it would be the biggest hit of all time.
+
+Name: Janki Patel
+Position: Director
+Year: 3rd
+Major: Public Health Policy
+Fun Fact: I like to watch Bollywood movies, make cha, and dance!
+
+Name: Simret Sutti
+Position: Logistics Chair - Catering
+Year: 2nd
+Major: Pharm Sci
+Fun Fact: I've been playing the alto saxophone for seven years.
+
+Name: Madhur Gajiwala
+Position: Logistics Chair - Transportation
+Year: 2nd
+Major: Business Administration
+Fun Fact: I was born in Manhattan and moved to San Diego when I was two.
+
+Name: Chitra Patel
+Position: Creative Chair
+Year: 5th
+Major: Economics; Minor: Global Sustainability
+Fun Fact: I like to watch Bollywood movies and go to the beach.
+
+Name: Alisha Kabir
+Position: Creative Chair
+Year: 4th
+Major: Political Science
+Fun Fact: I'm left-handed, but I can do anything else with both my right and left hand.
+
+Name: Ayesha Bhakta
+Position: Hospitality Chair
+Year: 2nd
+Major: Criminology, Law, and Society; Pyschology and Social Behavior
+Fun Fact: I was on my high school swim team for four years.
+
+Name: Shrishti Bhatnagar
+Position: Public Relations Chair
+Year: 4th
+Major: Electrical Engineering
+Fun Fact: I'm an international student who loves traveling and would love to live in Rome.
+
+Name: Tanvi Patel
+Position: Financial Chair
+Major: Business Economics
+Year: 4th
+Fun Fact: I like to watch Bollywood movies and take naps.
+
+Name: Milisha Merchant
+Position: Sponsorship Chair
+Major: Business Administration
+Year: 2nd
+Fun Fact: I'm on the UCI Andaaz acapella team.
+
+Name: Leiah Elisarraras
+Position: Sponsorship Chair
+Major: Economics
+Year: 1st
+Fun Fact: I learned how to ride a bike the summer entering college!

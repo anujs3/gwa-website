@@ -1,0 +1,105 @@
+a:link, a:visited
+{
+	color: #9933FF;
+	text-decoration: none;
+}
+html {overflow-x: hidden;}
+h1
+{
+	font-family: 'Raleway', sans-serif;
+}
+h2
+{
+	font-weight: bold;
+	font-family: 'Poiret One', cursive;
+}
+h6
+{
+	font-size: 10px;
+}
+
+#team_app, #sponsorship_packet
+{
+	font-size: 20px;
+	color: #FFFFFF;
+	background-color: #9933FF;
+	padding: 8px 8px 8px 8px;
+	border-radius: 10px;
+}
+#team_app:hover, #sponsorship_packet:hover
+{
+	background-color: #6600CC;
+}
+#title
+{
+	background-image:url("Garba.png");
+	background-repeat:no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	background-position:center;
+}
+.about
+{
+	width: 480px;
+	height: 318px;
+}
+.logo
+{
+	width: 200px;
+	height: 200px;
+}
+.mini_logo
+{
+	width: 50px;
+	height: 50px;
+}
+.main_pics
+{
+	width: 300px;
+	height: 300px;
+}
+.company
+{
+	margin-top: 10px;
+}
+
+.jumbotron
+{
+	color: #FFFFFF;
+	padding: 50px 25px;
+}
+.bg-grey
+{
+	background-color: #F6F6F6;
+}
+.school
+{
+	background-image: url("Banner.jpg");
+	background-size: cover;
+	color: #FFFFFF;
+}
+.container-fluid
+{
+	padding: 60px 50px;
+}
+@media screen and (max-width: 768px) 
+{
+	.col-sm-4 
+	{
+		text-align: center;
+		margin: 25px 0;
+	}
+}
+
+#work
+{
+	color: #5C5C5C;
+}
+
+.board_photo
+{
+	width: 300px;
+	height: 300px;
+}
