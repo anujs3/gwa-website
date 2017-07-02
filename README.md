@@ -3,6 +3,9 @@
 ### Description
 Garba With Attitude (GWA) is a national Garba/Raas (Indian folk dance) competition that attracts student-formed teams, audience members of various ages, and organizations from across the nation.
 
+### Website Link
+http://garbawithattitude.com
+
 ### Sections
 - About
   - Learn what GWA is all about.
